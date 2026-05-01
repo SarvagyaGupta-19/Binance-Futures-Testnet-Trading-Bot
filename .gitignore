@@ -1,0 +1,22 @@
+# Environment — never commit real credentials
+.env
+
+# Log files generated at runtime
+*.log
+logs/
+
+# Python bytecode cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE artifacts
+.vscode/
+.idea/
+*.swp
