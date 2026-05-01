@@ -49,7 +49,7 @@ trading_bot/
 ### 1. Clone / download the project
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/SarvagyaGupta-19/Binance-Futures-Testnet-Trading-Bot.git>
 cd trading_bot
 ```
 
